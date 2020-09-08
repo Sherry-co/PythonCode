@@ -10,4 +10,5 @@
 类：[第九章的代码](https://github.com/Sherry-co/PythonCode/tree/master/chapter9)  
 文件和异常：[第十章的代码](https://github.com/Sherry-co/PythonCode/tree/master/chapter10)  
 测试代码：[第十一章的代码](https://github.com/Sherry-co/PythonCode/tree/master/chapter11)  
-生成数据：[第十五章的代码](https://github.com/Sherry-co/PythonCode/tree/master/chapter15)
+生成数据：[第十五章的代码](https://github.com/Sherry-co/PythonCode/tree/master/chapter15)  
+下载数据：[第十六章的代码](https://github.com/Sherry-co/PythonCode/tree/master/chapter16)
