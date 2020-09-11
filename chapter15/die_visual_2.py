@@ -2,7 +2,7 @@ import pygal
 
 from die import Die
 
-# 创建两个D6骰子
+# 创建一个D6 和 一个D10 骰子
 die_1 = Die()
 die_2 = Die(10)
 
